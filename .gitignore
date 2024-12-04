@@ -1,0 +1,6 @@
+# Generated directories
+dist/
+node_modules/
+
+# Copy of the library files
+public/tinymce
