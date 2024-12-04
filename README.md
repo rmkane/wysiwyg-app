@@ -7,7 +7,7 @@ This project builds a webpage containing an instance of TinyMCE.
 Initial setup:
 
 ```shell
-pnpm init
+pnpm install
 pnpm copy-assets
 ```
 
@@ -16,14 +16,14 @@ pnpm copy-assets
 Simply run:
 
 ```shell
-pmpn dev
+pnpm dev
 ```
 
 ## Production
 
-The bundle must be built prrior to previewing it
+The bundle must be built prior to previewing it:
 
 ```shell
-pmpn build
+pnpm build
 pnpm preview
 ```
